@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-<h1> Some Useful Tools</h1>
+<h2> Some Useful Tools</h2>
 
 **[Unit Conversions](https://halas.rice.edu/unit-conversions)**
 <br>
@@ -27,7 +27,7 @@ If you are developing optical setups, here is a complete toolbox from Light Conv
 ---
 
 
-<h1>Reads that may interest you...</h1>
+<h2>Reads that may interest you...</h2>
 
 **[From Intuition to Creation: How AI Changes the Architecture of Intellectual Work](https://pubs.acs.org/jpclcd/article/17/30/8506/5237234/From-Intuition-to-Creation-How-AI-Changes-the)**
 

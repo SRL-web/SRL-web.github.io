@@ -1,34 +1,10 @@
 <header>
-  <!-- Lab logo, top-right corner, all pages -->
-  <a href="{{ site.baseurl }}/" style="position: fixed; top: 12px; right: 80px; z-index: 1050;">
-    <img src="{{ '/assets/img/SRL_logo-1.png' | relative_url }}" alt="SRL logo" style="height: 100px; width: auto;">
-  </a>
-
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
-      {% if page.permalink != '/' %}
-        <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
-          {% if site.title == 'blank' %}
-            {% if site.first_name %}
-              <span class="font-weight-bold">
-                {{- site.first_name -}}
-              </span>
-            {% endif %}
-            {% if site.middle_name %}
-              {{- site.middle_name -}}
-            {% endif %}
-            {% if site.last_name %}
-              {{- site.last_name -}}
-            {% endif %}
-          {% else %}
-            {{- site.title -}}
-          {% endif %}
-        </a>
-      {% elsif site.enable_navbar_social %}
-        <!-- Social Icons -->
-        <div class="navbar-brand social">{% social_links %}</div>
-      {% endif %}
+      <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+        <img src="{{ '/assets/img/SRL_logo-1.png' | relative_url }}" alt="{{ site.first_name }} {{ site.last_name }}" style="height: 32px; width: auto;">
+      </a>
       <!-- Navbar Toggle -->
       <button
         class="navbar-toggler collapsed navbar-toggler-main"
