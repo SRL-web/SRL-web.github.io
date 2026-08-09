@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://srl-web.github.io/sitemap.xml
+Sitemap: https://srlab-web.github.io/sitemap.xml
