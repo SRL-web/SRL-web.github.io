@@ -25,13 +25,13 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am an Assistant Professor at the Centre for Interdisciplinary and Convergent Technologies (<a href='https://www.iitkgp.ac.in/department/AT'>CIDCT</a>), Indian Institute of Technology Kharagpur. 
-​
+I am an Assistant Professor at the Centre for Interdisciplinary and Convergent Technologies (<a href='https://www.iitkgp.ac.in/department/AT'>CIDCT</a>), Indian Institute of Technology Kharagpur. At **SRLab**, I am currently involved in establishing ultrafast spectroscopy and imaging capabilities for direct investigation of hybrid materials.
 
-At **SRLab**, we investigate emergent quantum optical phenomena in hybrid materials. Our research asks the question: How does structural arrangement and coupling of parts in a material give rise to properties that the individual parts do not possess? For example, directed energy flow in a heterostructure, transfer of optical chirality at a hybrid interface, and charge localisation in deformable ionic structures. We use the techniques of ultrafast spectroscopy to observe these phenomena directly. You can find more in <a href='https://srl-web.github.io/research/'>Research</a>.
+
+We ask the question : How does structural arrangement and coupling of parts in a material give rise to properties that the individual parts do not possess? For example, directed energy flow in a heterostructure, transfer of optical chirality at a hybrid interface, and charge localisation in deformable ionic structures. We use the techniques of ultrafast spectroscopy to observe these phenomena directly. You can find more in <a href='https://srl-web.github.io/research/'>Research</a>.
 ​​
 
-At CIDCT, I am currently involved in establishing ultrafast spectroscopy and imaging capabilities for direct investigation of hybrid materials. Before joining IIT-KGP, I worked as a Postdoctoral Researcher at the Chemical Physics Division, Lund University, Sweden with <a href='https://www.chemphys.lu.se/tonu-pullerits'>Tönu Pullerits</a>, where I developed techniques of coherent phonon spectroscopy and spectroscopy using quantum light. I completed my Ph.D. from the Interdisciplinary Graduate Programme at Nanyang Technological University (NTU), Singapore, where I was advised by <a href='https://dr.ntu.edu.sg/entities/person/Sum-Tze-Chien'>Tze Chien Sum</a>. 
+Before joining IIT-KGP, I worked as a Postdoctoral Researcher at the Chemical Physics Division, Lund University, Sweden with <a href='https://www.chemphys.lu.se/tonu-pullerits'>Tönu Pullerits</a>, where I developed techniques of coherent phonon spectroscopy and spectroscopy using quantum light. I completed my Ph.D. from the Interdisciplinary Graduate Programme at Nanyang Technological University (NTU), Singapore, where I was advised by <a href='https://dr.ntu.edu.sg/entities/person/Sum-Tze-Chien'>Tze Chien Sum</a>. 
 
 
 For more details, you can check my <a href='https://drive.google.com/file/d/1XRG4T5Os_4mw_6zkQZctpn6MkMs8N_cW/view'>CV</a>.
