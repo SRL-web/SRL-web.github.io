@@ -18,7 +18,8 @@ nav_order: 6
     {% endif %}
     <div class="team-info">
       <a href="{{ pi.link }}"><strong>{{ pi.name }}</strong></a><br>
-      {{ pi.title }}, {{ pi.affiliation }}
+      {{ pi.title }}<br>
+      {{ pi.affiliation }}<br>
     </div>
   </div>
 </div>
@@ -33,7 +34,9 @@ nav_order: 6
     {% endif %}
     <div class="team-info">
       <a href="{{ member.link }}"><strong>{{ member.name }}</strong></a><br>
-      {{ member.title }}, {{ member.affiliation }}, {{ member.project_title }}
+      {{ member.title }}<br>
+      {{ member.affiliation }}<br>
+      {{ member.project_title }}<br>
     </div>
   </div>
   {% endfor %}
