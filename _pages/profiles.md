@@ -67,8 +67,8 @@ nav_order: 6
   border-bottom: 1px solid var(--global-divider-color);
 }
 .team-photo {
-  width: 60px;
-  height: 60px;
+  width: 90px;
+  height: 90px;
   object-fit: cover;
   border-radius: 50%;
   flex-shrink: 0;
