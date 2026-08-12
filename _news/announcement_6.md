@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Delivered the IAS-NTU STEM Graduate Colloquium at Nanyang Technological University, Singapore on "Left, Right and Ultrafast: Chiral Dynamics in Gold Nanoparticles and Perovskite Lattices". <a href="https://ntulearnvideo.ntu.edu.sg/error/error?from=6a735f04cff0b">Video recording available</a>. 
+Delivered the IAS-NTU STEM Graduate Colloquium at Nanyang Technological University, Singapore on "Left, Right and Ultrafast: Chiral Dynamics in Gold Nanoparticles and Perovskite Lattices". <a href="https://www.ntu.edu.sg/ias/news-events/news/detail/left--right-and-ultrafast--chiral-dynamics-in-gold-nanoparticles-and-perovskite-lattices">Read the article about the talk</a> in Institute of Advanced Study (IAS) News page. 
