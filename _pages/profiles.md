@@ -33,7 +33,7 @@ nav_order: 6
     {% endif %}
     <div class="team-info">
       <a href="{{ member.link }}"><strong>{{ member.name }}</strong></a><br>
-      {{ member.title }}, {{ member.affiliation }}
+      {{ member.title }}, {{ member.affiliation }}, {{ member.project_title }}
     </div>
   </div>
   {% endfor %}
